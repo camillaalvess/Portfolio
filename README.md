@@ -4,8 +4,10 @@ Meu portfólio profissional desenvolvido para apresentar meus projetos, habilida
 
 ✨ Tecnologias utilizadas:
 
-HTML
+-HTML
+
 -CSS
+
 -JavaScript
 
 🎯 Objetivo:
