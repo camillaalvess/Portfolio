@@ -14,9 +14,13 @@ Criar uma plataforma profissional e interativa para demonstrar minhas competênc
 
 📌 Funcionalidades:
 
-Interface moderna e responsiva
-Seção de projetos
-Apresentação profissional
-Contato e redes sociais
-Navegação intuitiva
+-Interface moderna e responsiva
+
+-Seção de projetos
+
+-Apresentação profissional
+
+-Contato e redes sociais
+
+-Navegação intuitiva
 
